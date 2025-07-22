@@ -141,6 +141,5 @@
     "playground": {
       "mode": "show"
     }
-  },
-  "openapi": "/assets/openapi.json"
+  }
 }
